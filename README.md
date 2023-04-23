@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there, I'm Zubair Khan 👋
+I'm a software engineer based in [YOUR LOCATION HERE], specializing in [YOUR AREAS OF EXPERTISE HERE]. Currently, I work at [YOUR COMPANY/ORGANIZATION HERE] as a [YOUR POSITION HERE]. In my free time, I enjoy [YOUR HOBBIES/INTERESTS HERE].
 
-<!--
-**ZubairKhan94049/ZubairKhan94049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Technologies & Tools
+I'm proficient in the following technologies and tools:
 
-Here are some ideas to get you started:
+Programming languages: [YOUR LANGUAGES HERE]
+Frameworks and libraries: [YOUR FRAMEWORKS/LIBRARIES HERE]
+Databases: [YOUR DATABASES HERE]
+Cloud platforms: [YOUR CLOUD PLATFORMS HERE]
+Tools and utilities: [YOUR TOOLS/UTILITIES HERE]
+🌱 I'm currently learning
+I'm currently learning [YOUR TOPICS OF INTEREST HERE] and looking to collaborate on [YOUR PROJECTS/IDEAS HERE].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me
+You can reach me at [YOUR EMAIL ADDRESS HERE] or connect with me on [YOUR SOCIAL MEDIA PROFILES HERE].
+
+🚀 My GitHub stats
